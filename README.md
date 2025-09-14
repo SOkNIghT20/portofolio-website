@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+> **🚧 Work in Progress** - This portfolio is continuously being updated with new projects, features, and improvements. Check back regularly for updates!
+
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a clean design, smooth animations, and mobile-first approach.
 
 ## Features
